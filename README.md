@@ -1,5 +1,7 @@
 # 🔍 Comparative Analysis of Machine Learning Models for Fraud Detection
 
+(still uploading my code)
+
 This project applies supervised learning techniques to detect rare fraudulent transactions in a highly imbalanced financial dataset (~0.8% fraud rate), completed for the **Predictive Analytics (IEDA3560)** course at **HKUST**.
 
 ## 🧠 Project Objectives
