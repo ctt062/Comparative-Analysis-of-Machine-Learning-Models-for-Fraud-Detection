@@ -1,0 +1,12 @@
+# requirements.txt
+pandas
+numpy
+matplotlib
+seaborn
+scikit-learn
+scipy
+imbalanced-learn
+xgboost
+tensorflow
+# kagglehub is included in the notebook but commented out in the scripts.
+# Add 'kagglehub' here if you wish to use the automated download.
